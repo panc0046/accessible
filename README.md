@@ -21,3 +21,6 @@
 ### 7. Input "email" let user inputs any text.
 > solution: Input email should have email validation.
 
+### 8. Copyright symbol.
+> solution: copyright symbol can be write using html code.
+
