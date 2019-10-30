@@ -16,11 +16,16 @@
 > solution: Class that are applied in tag should have write in css file with respective css styles.
 
 ### 6. Details div class fonts color.
-> solution: Font color shold be darker.
+> solution: Font color shold be darker and should have some gap between two lines.
 
 ### 7. Input "email" let user inputs any text.
 > solution: Input email should have email validation.
 
-### 8. Copyright symbol.
+### 8. Input email textbox size.
+> solution: Inout email textbox size should be small.
+
+### 9. Copyright symbol.
 > solution: copyright symbol can be write using html code.
 
+### 10. Social symbol
+> solution: social symbol size should be small and instagram logo is wrong as instagram logo have colors.
