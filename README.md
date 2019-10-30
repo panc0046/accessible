@@ -22,7 +22,7 @@
 > solution: Input email should have email validation.
 
 ### 8. Input email textbox size.
-> solution: Inout email textbox size should be small.
+> solution: Input email textbox size should be small.
 
 ### 9. Copyright symbol.
 > solution: copyright symbol can be write using html code.
